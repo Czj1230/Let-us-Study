@@ -28,7 +28,7 @@ or
 
 http://43.143.10.225:5000/
 
-## Delete Process
+## Delete Service
 
 ps -ef | grep gunicorn
-kill -9 [pid]
+kill -9  [pid]
