@@ -28,6 +28,8 @@ or
 
 http://43.143.10.225:5000/
 
+(temporary)
+
 ## Delete Service
 
 ps -ef | grep gunicorn
